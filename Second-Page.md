@@ -34,6 +34,7 @@
        Which aspects of my work am I most proud of?
       What can you do to improve the aspects I’m less proud of?
       That’s the dark side of growth, I guess…
+      
 5. **Success of others**
     **It might not be possible to retrofit a company to have a similar level of openness and commitment to authenticity, but it’s not too hard to adopt the growth mindset concepts to influence peer interactions. We can choose to be more transparent or more helpful than might be required or than we’re used to. In other words, we can choose to go the extra mile, we can choose to be quick to praise and slow to criticize. We can choose to seek first to understand.**
     
