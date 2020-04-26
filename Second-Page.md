@@ -12,13 +12,17 @@
 ![Fixed Grothing](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 1. **Challenges**
+
       #### When you faced a challenging problem  When you are ready, I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward. And for me, it always helps to talk through these steps – out loud, not just in my head. I jot down clues as they come about. Soon enough (and rather miraculously), I begin to find root causes of the problem.
       
 2. **Obstacles**
+
       #### In Zen and the Art of Motorcycle Maintenance, Robert Persig talks about the “gumption trap” – the phenomenon of knowing what needs to be done, but lacking the motivation to do it. His solution is to stand up, put down whatever project is sucking the gumption out of you, walk away, and return when you’re feeling more inspired. Now, granted, this isn’t often a viable option for projects at work, but just recognizing what’s happening (I’m avoiding and losing focus) helps me make peace with it, and usually un-traps just enough of my gumption to do one more thing on the project. Then another one more thing. Then another. And so on. Eventually, enough momentum builds up and I’m back in the groove.
 3. **Effort**
+
     #### when I find Yourself reaching for the snooze button, you consider all this. I make a conscious effort to stop and think about the growth mindset. I ask yourself, is going back to sleep really what I want to do? Am I giving up too easily? Would I rather shower off pangs of regret, or the sweat of accomplishment? C’mon, the answers are obvious.
 4. **Criticism**
+
     #### I also find it useful to review each of your days and assess how you’ve done
      _**So you should learned to ask yourself two questions:**_
 
