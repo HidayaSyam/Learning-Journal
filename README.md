@@ -21,7 +21,6 @@ _all word between underscore will be Italic_
 1. what github
 2. what Markdwon
 3. how can I deal with markdwon
-
     1. How can I make bold text
     2. Italic Text
     3. subList
