@@ -31,8 +31,11 @@
    **These questions help you focus on all aspects of my day, the good and the bad, and they help me internalize strategies for creating more good days going forward.**
 
 **And it turns out, variations of these questions help me process criticism from coworkers. Assuming their critique is valid (and it usually is), you can hold a mini-retrospective with yourself:**
+
       * Which aspects of my work am I most proud of?
+      
       * What can you do to improve the aspects I’m less proud of?
+      
       * That’s the dark side of growth, I guess…
 5. **Success of others**
 
