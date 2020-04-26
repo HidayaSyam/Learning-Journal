@@ -17,6 +17,7 @@ _all word between underscore will be Italic_
     * How can I make bold text
     * Italic Text
     * subList
+    
  # List of Thing I learnd using OrderdList :
 1. what github
 2. what Markdwon
@@ -24,6 +25,7 @@ _all word between underscore will be Italic_
     1. How can I make bold text
     2. Italic Text
     3. subList
+
 
 ### How can I  add Images 
 ![MarKdwon Logo](https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png)
